@@ -1,2 +1,2 @@
 # Smart-College-Management-System
-ankiy negi ka sab chota hai
+ankit negi ka sab chota hai
